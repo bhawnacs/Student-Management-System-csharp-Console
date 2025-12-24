@@ -1,4 +1,4 @@
-# Student Management System (C# Console Application)
+## Student Management System (C# Console Application)
 
 ## 📌 Description
 Student Management System is a console-based C# application built using object-oriented programming concepts.  
